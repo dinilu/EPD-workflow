@@ -1,0 +1,8 @@
+<b>List of errors in the European Pollen Database (EPD)</b>
+
+TAXONONY:
+
+
+DDBB STRUCTURE:
+- Incorporate fields for Hiatuses and Reversions
+
