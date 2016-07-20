@@ -6,3 +6,5 @@ TAXONONY:
 DDBB STRUCTURE:
 - Incorporate fields for Hiatuses and Reversions
 
+GIESECKE:
+- Data for e_ = 1236 in Giesecke have different depths than those in the EPD. Double check.
